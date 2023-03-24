@@ -7,7 +7,7 @@
 + [rebase](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/rebase.md)
 
 #### Nombre:
-##### Jose Francisco
++ ##### Jose Francisco
 
 #### Matricula:
-##### 2022 - 0115
++ ##### 2022 - 0115
