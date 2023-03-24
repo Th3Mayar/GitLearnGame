@@ -1,6 +1,7 @@
 ### Juego de Git learning branch:
 
 <hr>
+
 + [commit](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/commit.md)
 + [branch](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/branch.md)
 + [merge](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/merge.md)
@@ -11,6 +12,7 @@
 + [cherry-pick](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/reset.md)
 + [tag](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/tag.md)
 + [Niveles completados (FOTOS)](/Captures/)
+
 <hr>
 
 #### Nombre:
