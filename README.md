@@ -11,6 +11,7 @@
 + [reset](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/reset.md)
 + [cherry-pick](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/reset.md)
 + [tag](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/tag.md)
++ [describe](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/describe.md)
 + [Niveles completados (FOTOS)](/Captures/)
 
 <hr>
