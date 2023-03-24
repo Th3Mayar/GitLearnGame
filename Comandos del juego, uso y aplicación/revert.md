@@ -5,4 +5,4 @@
 #### Para usarlo es sencillo:
 
 ##### Imagen del nivel de revert and reset completado:
-![Imagen del juego](/Captures/009.png)
+![Imagen del juego](/Captures/0010.png)
