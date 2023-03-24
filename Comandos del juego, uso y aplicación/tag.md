@@ -4,5 +4,5 @@
 
 #### Para usarlo es sencillo:
 
-##### Imagen del nivel de uso de tag completado:
+##### Imagen del nivel, uso de tag completado:
 ![Imagen del juego](/Captures/0016.png)
