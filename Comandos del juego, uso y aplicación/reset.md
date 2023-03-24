@@ -1,6 +1,6 @@
 ## El comando reset:
 
-#### Este comando funciona de tal manera que al ejecutar el comando, Git creará un nuevo commit que deshace los cambios realizados por el commit especificado, pero mantiene el historial de cambios del repositorio. Es decir, el commit que se revierte permanece en el historial de Git, pero se deshacen los cambios realizados en ese commit.
+#### Este comando funciona igual que el revert, pero en este caso el reset permite mover el puntero HEAD y la rama actual a un commit anterior, eliminando cualquier commit posterior.
 
 #### Para usarlo es sencillo:
 
