@@ -6,6 +6,8 @@
 + [checkout](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/checkout.md)
 + [rebase](/Comandos%20del%20juego%2C%20uso%20y%20aplicaci%C3%B3n/rebase.md)
 
+<hr>
+
 #### Nombre:
 + ##### Jose Francisco
 
