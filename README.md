@@ -16,8 +16,6 @@
 
 <hr>
 
-[Nombre Imagen](https://www.youtube.com/Th3Mayar)
-
 #### Nombre:
 + ##### Jose Francisco H.
 
